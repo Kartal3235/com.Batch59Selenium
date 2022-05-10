@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="49143fe3-9d1f-473b-a993-d0a5bb4df4b6" name="Changes" comment="" />
+    <list default="true" id="49143fe3-9d1f-473b-a993-d0a5bb4df4b6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C01_Tekrar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C02_DriverMethodları.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C03_IlkTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C04_getPageSource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C05_getWindowHandle.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C06_navigate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C07_manageMethodları.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C08_manageMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C09_manageMethodlari.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,10 +28,16 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="28wNnS4OKIpbS6qZbJ4GhB9z3vs" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -39,13 +56,65 @@
       <recent name="C:\Users\ZEYNEP\IdeaProjects\com.Batch59Selenium\src\resources\drivers" />
     </key>
   </component>
-  <component name="RunManager">
-    <configuration name="C01_İlkClass" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day01_seleniumProje.C01_İlkClass" />
+  <component name="RunManager" selected="Application.C09_manageMethodlari">
+    <configuration name="C05_getWindowHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C05_getWindowHandle" />
       <module name="com.Batch59Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day01_seleniumProje.*" />
+          <option name="PATTERN" value="day02_driverMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C06_navigate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C06_navigate" />
+      <module name="com.Batch59Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_driverMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C07_manageMethodları" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C07_manageMethodları" />
+      <module name="com.Batch59Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_driverMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C08_manageMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C08_manageMethodlari" />
+      <module name="com.Batch59Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_driverMethods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C09_manageMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C09_manageMethodlari" />
+      <module name="com.Batch59Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day02_driverMethods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -55,7 +124,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C01_İlkClass" />
+        <item itemvalue="Application.C09_manageMethodlari" />
+        <item itemvalue="Application.C08_manageMethodlari" />
+        <item itemvalue="Application.C07_manageMethodları" />
+        <item itemvalue="Application.C06_navigate" />
+        <item itemvalue="Application.C05_getWindowHandle" />
       </list>
     </recent_temporary>
   </component>
@@ -69,5 +142,16 @@
       <updated>1652123856714</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
