@@ -5,16 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49143fe3-9d1f-473b-a993-d0a5bb4df4b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C01_Tekrar.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C02_DriverMethodları.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C03_IlkTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C04_getPageSource.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C05_getWindowHandle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C06_navigate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C07_manageMethodları.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C08_manageMethodlari.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day02_driverMethods/C09_manageMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C01_Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C02_findElements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C03_Locators.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C04_WebElementMethodlari.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C09_manageMethodlari.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C09_manageMethodlari.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,13 +52,13 @@
       <recent name="C:\Users\ZEYNEP\IdeaProjects\com.Batch59Selenium\src\resources\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C09_manageMethodlari">
-    <configuration name="C05_getWindowHandle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C05_getWindowHandle" />
+  <component name="RunManager" selected="Application.C04_WebElementMethodlari">
+    <configuration name="C01_Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.C01_Locators" />
       <module name="com.Batch59Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethods.*" />
+          <option name="PATTERN" value="day03_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -70,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C06_navigate" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C06_navigate" />
+    <configuration name="C02_findElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.C02_findElements" />
       <module name="com.Batch59Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethods.*" />
+          <option name="PATTERN" value="day03_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -83,12 +79,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C07_manageMethodları" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C07_manageMethodları" />
+    <configuration name="C03_Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.C03_Locators" />
       <module name="com.Batch59Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethods.*" />
+          <option name="PATTERN" value="day03_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -96,12 +92,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C08_manageMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C08_manageMethodlari" />
+    <configuration name="C04_WebElementMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day03_locators.C04_WebElementMethodlari" />
       <module name="com.Batch59Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day02_driverMethods.*" />
+          <option name="PATTERN" value="day03_locators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,11 +120,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C04_WebElementMethodlari" />
+        <item itemvalue="Application.C03_Locators" />
+        <item itemvalue="Application.C02_findElements" />
+        <item itemvalue="Application.C01_Locators" />
         <item itemvalue="Application.C09_manageMethodlari" />
-        <item itemvalue="Application.C08_manageMethodlari" />
-        <item itemvalue="Application.C07_manageMethodları" />
-        <item itemvalue="Application.C06_navigate" />
-        <item itemvalue="Application.C05_getWindowHandle" />
       </list>
     </recent_temporary>
   </component>
