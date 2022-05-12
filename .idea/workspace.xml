@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49143fe3-9d1f-473b-a993-d0a5bb4df4b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C01_Locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C02_findElements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C03_Locators.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day03_locators/C04_WebElementMethodlari.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_CssLocaters/C01_AmazonSearch.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_CssLocaters/C02_xpath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_CssLocaters/C03_CssSelector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_CssLocaters/C04_RelativeXpath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C09_manageMethodlari.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day02_driverMethods/C09_manageMethodlari.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/test-classes/day03_locators/C04_WebElementMethodlari.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day03_locators/C04_WebElementMethodlari.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -52,13 +52,13 @@
       <recent name="C:\Users\ZEYNEP\IdeaProjects\com.Batch59Selenium\src\resources\drivers" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.C04_WebElementMethodlari">
-    <configuration name="C01_Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_locators.C01_Locators" />
+  <component name="RunManager" selected="Application.C04_RelativeXpath">
+    <configuration name="C01_AmazonSearch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_xpath_CssLocaters.C01_AmazonSearch" />
       <module name="com.Batch59Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_locators.*" />
+          <option name="PATTERN" value="day04_xpath_CssLocaters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -66,12 +66,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C02_findElements" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_locators.C02_findElements" />
+    <configuration name="C02_xpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_xpath_CssLocaters.C02_xpath" />
       <module name="com.Batch59Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_locators.*" />
+          <option name="PATTERN" value="day04_xpath_CssLocaters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -79,12 +79,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C03_Locators" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day03_locators.C03_Locators" />
+    <configuration name="C03_CssSelector" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_xpath_CssLocaters.C03_CssSelector" />
       <module name="com.Batch59Selenium" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day03_locators.*" />
+          <option name="PATTERN" value="day04_xpath_CssLocaters.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_RelativeXpath" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day04_xpath_CssLocaters.C04_RelativeXpath" />
+      <module name="com.Batch59Selenium" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day04_xpath_CssLocaters.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -105,26 +118,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C09_manageMethodlari" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day02_driverMethods.C09_manageMethodlari" />
-      <module name="com.Batch59Selenium" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="day02_driverMethods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C04_RelativeXpath" />
+        <item itemvalue="Application.C03_CssSelector" />
+        <item itemvalue="Application.C02_xpath" />
+        <item itemvalue="Application.C01_AmazonSearch" />
         <item itemvalue="Application.C04_WebElementMethodlari" />
-        <item itemvalue="Application.C03_Locators" />
-        <item itemvalue="Application.C02_findElements" />
-        <item itemvalue="Application.C01_Locators" />
-        <item itemvalue="Application.C09_manageMethodlari" />
       </list>
     </recent_temporary>
   </component>
