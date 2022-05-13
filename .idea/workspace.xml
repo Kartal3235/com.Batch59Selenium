@@ -5,12 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="49143fe3-9d1f-473b-a993-d0a5bb4df4b6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_CssLocaters/C01_AmazonSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_CssLocaters/C02_xpath.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_CssLocaters/C03_CssSelector.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/day04_xpath_CssLocaters/C04_RelativeXpath.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/test-classes/day03_locators/C04_WebElementMethodlari.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/test-classes/day03_locators/C04_WebElementMethodlari.class" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
